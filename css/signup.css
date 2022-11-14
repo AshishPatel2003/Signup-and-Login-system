@@ -1,0 +1,138 @@
+#signupcontainer, #logincontainer, #changecontainer{
+    background-color: aliceblue;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 50%;
+    display: block;
+    margin: 2% auto 1% auto;
+    padding: 1% 4% 2% 4%;
+    box-shadow: -2px 15px 10px -15px #111;
+    min-width: fit-content;
+}
+
+#navbar{
+    box-shadow: 1px 15px 10px -15px #111;
+}
+
+#signuplabel, #loginlabel{
+    margin: 5px auto 10px auto;
+    padding: 10px 10px 10px 10px;
+    font-weight:bolder;
+    border: 5px solid #005064;
+    color: aliceblue;
+    background-color: #005064;
+    width: 50%;
+    border-radius: 40%;
+    text-align: center;
+}
+
+#display_image {
+    max-width: auto;
+    max-height: 40%;
+    border: 0px solid black;
+    background-position: center;
+    background-size: cover;
+    margin: 4%;
+}
+.rm-b{
+    border: 0px;
+}
+.rm-b-r{
+    border-right: 0px solid white;
+}
+.rm-b-l{
+    border-left: 0px solid white;
+}
+.rm-b-t{
+    border-top: 0px;
+}
+.rm-b-b{
+    border-bottom: 0px;
+}
+.rm-br-tr{
+    border-top-right-radius: 0px;
+}
+.rm-br-tl{
+    border-top-left-radius: 0px;
+}
+.rm-br-br{
+    border-bottom-right-radius: 0px;
+}
+.rm-br-bl{
+    border-bottom-left-radius: 0px;
+}
+.width-50{
+    width: 50%;
+}
+.width-49{
+    width: 49%;
+}
+.m-r-2{
+    margin-right: 20%;
+}
+.p-l-2{
+    padding-left: 30px;
+}
+.m-l{
+    margin-left: 50px;
+}
+.sz-xs{
+    font-size:x-small
+}
+.width-98{
+    width: 98%;
+}
+.width-30{
+    width: 30%;
+}
+.radio-size{
+    font-size: xx-large;
+}
+.display-auto{
+    display: flex;
+}
+.b-0{
+    border: 0px;
+}
+.s-max{
+    font-size: x-large;
+}
+.submitbtn-container, .loginbtn-container, .changebtn-container{
+    display:flex;
+    margin-top: 4%;
+    text-align:center;
+    height:10%;
+    padding-left:2%;
+    padding-right:2%;
+}
+.exist, .notexist{
+    font-size:small;
+    text-align:left;
+    width:70%;
+}
+#temp_container{
+    padding:5px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width:100%;
+    text-align:center;
+    margin:auto;
+}
+
+#loginhere, #signuphere{
+    border: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+    color: #003fee;
+    text-decoration: underline;
+}
+
+.userlogo{
+    padding: 7px;
+    font-size: x-large;
+    background-color: lightblue;
+    border-color: darkblue;
+}
+
+.bc-db{
+    border-color: darkblue;
+}
